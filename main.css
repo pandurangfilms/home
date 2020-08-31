@@ -1862,28 +1862,25 @@ li {
   font: 12px / 1em "DIN Next W01 Regular", 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 .social-menu .fb a {
-  background-image: url(img/sprites.png);
-  background-position: -118px -78px;
-  width: 26px;
-  height: 24px
+    background-image: url(icon/fb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .social-menu .tw {
   margin-right: 4px
 }
 .social-menu .tw a {
-  background-image: url(img/sprites.png);
-  background-position: -28px -117px;
-  width: 26px;
-  height: 24px
+    background-image: url(icon/tw.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .social-menu .ig {
-  margin-right: 3px
+  margin-right: 4.5px
 }
 .social-menu .ig a {
-  background-image: url(img/sprites.png);
-  background-position: 0 -117px;
-  width: 26px;
-  height: 24px
+    background-image: url(icon/ins2.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .social-menu .gp {
   margin-right: 6px
@@ -1895,34 +1892,30 @@ li {
   height: 24px
 }
 .social-menu .yt a {
-  background-image: url(img/sprites.png);
-  background-position: -118px 0;
-  width: 26px;
-  height: 24px
+    background-image: url(icon/ytb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .dark-header .social-menu .fb a {
-  background-image: url("icon/fb.png");
-  /*background-position: -118px -52px;*/
-  width: 26px;
-  height: 24px
+    background-image: url(icon/fb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .dark-header .social-menu .tw {
   margin-right: 4px
 }
 .dark-header .social-menu .tw a {
-  background-image: url(img/sprites.png);
-  background-position: -56px -117px;
-  width: 26px;
-  height: 24px
+    background-image: url(icon/tw.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .dark-header .social-menu .ig {
   margin-right: 3px
 }
 .dark-header .social-menu .ig a {
-  background-image: url(img/sprites.png);
-  background-position: -146px 0;
-  width: 26px;
-  height: 24px
+    background-image: url(icon/ins2.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .dark-header .social-menu .gp {
   margin-right: 6px
@@ -1934,10 +1927,9 @@ li {
   height: 24px
 }
 .dark-header .social-menu .yt a {
-  background-image: url(img/sprites.png);
-  background-position: -118px -26px;
-  width: 26px;
-  height: 24px
+    background-image: url(icon/ytb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
 }
 .notransition {
   transition: none !important;
@@ -2037,25 +2029,19 @@ li {
 }
 @media (-webkit-min-device-pixel-ratio:2), (min--moz-device-pixel-ratio:2), (min-resolution:2dppx), (min-resolution:192dpi) {
   .social-menu .fb a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: -27px -43px;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/fb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
   .social-menu .tw a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: 0 -43px;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/tw.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
   .social-menu .ig a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: -54px -68px;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/ins2.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
   .social-menu .gp a {
     background-size: 115px 92px;
@@ -2065,38 +2051,30 @@ li {
     height: 24px
   }
   .social-menu .yt a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: -54px -43px;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/ytb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
   .dark-header .social-menu .fb a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: -35px 0;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/fb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
   .dark-header .social-menu .tw {
     margin-right: 4px
   }
   .dark-header .social-menu .tw a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: -62px 0;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/tw.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
   .dark-header .social-menu .ig {
     margin-right: 3px
   }
   .dark-header .social-menu .ig a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: -27px -68px;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/ins2.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
   .dark-header .social-menu .gp {
     margin-right: 6px
@@ -2109,11 +2087,9 @@ li {
     height: 24px
   }
   .dark-header .social-menu .yt a {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
-    background-position: -89px 0;
-    width: 26px;
-    height: 24px
+    background-image: url(icon/ytb.png);
+    background-size: 22px 22px;    width: 22px;
+    height: 22px;margin-right: 4px;
   }
 }
 header#main-header {
