@@ -2118,15 +2118,15 @@ header#main-header .logo.no-icon .bulb {
   text-decoration: none
 }
 header#main-header .logo.no-icon .bulb:before {
+   background-image: url(LOGO/PANDURANG_Logo-white.png);
   content: '';
   display: inline-block;
   left: 5px;
   position: absolute;
   top: 10px;
-  background-image: url(img/sprites.png);
-  background-position: 0 -73px;
-  width: 35px;
-  height: 42px
+/*  background-position: 50 50px;
+  width: 50px;
+  height: 30px;*/
 }
 header#main-header #toggle-btn {
   background: 0 0;
@@ -2578,11 +2578,12 @@ header#main-header.show nav#main-nav {
     height: 42px
   }
   header#main-header .logo.no-icon .bulb:before {
-    background-size: 115px 92px;
-    background-image: url(img/sprites2x.png);
+    background-size: 107px 60px;
+    background-image: url(LOGO/PANDURANG_Logo-white.png);
     background-position: 0 0;
-    width: 34px;
-    height: 42px
+    width: 107px;
+    height: 60px;
+	  margin-top: -7.5px;
   }
 }
 #main-footer {
